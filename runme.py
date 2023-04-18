@@ -14,4 +14,5 @@ for i in range(max):
     print("*"*i)
 for j in range(max, 0, -1):
             print("*"*j)
-        
+
+#hello
